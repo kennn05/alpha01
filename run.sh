@@ -1,2 +1,2 @@
-cp bashc ~/.bashrc 
+cp bashrc ~/.bashrc 
 source ~/.bashrc
